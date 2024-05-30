@@ -1,0 +1,48 @@
+* {
+    margin: 20px;
+    padding: 0px;
+
+
+}
+
+body {
+
+    border: 50px solid #61B0F9;
+    
+
+}
+
+.welcome-section {
+    background-color: #d6d1ca;
+}
+.welcome-section-article {
+    background-color: #fff;
+}
+
+.styled-hr {
+    border: 0; 
+    height: 2px;
+    background-color: black; 
+    margin: 20px auto;
+    width: 25%; 
+    margin-bottom:50px;
+}
+.styled-hr-article {
+    border: 0; 
+    height: 2px;
+    background-color: black; 
+    margin: 20px auto;
+    width: 10%; 
+    margin-bottom:50px;
+}
+
+#articles {
+    gap: 0;
+}
+
+.radius{
+    border-top-left-radius: 0px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 20px;
+}
